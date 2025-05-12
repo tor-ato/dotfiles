@@ -1,0 +1,18 @@
+[font]
+size = 8
+
+[font.bold]
+family = "IntoneMonoNerdFontMono"
+style = "Bold"
+
+[font.bold_italic]
+family = "IntoneMonoNerdFontMono"
+style = "Bold Italic"
+
+[font.italic]
+family = "IntoneMonoNerdFontMono"
+style = "Italic"
+
+[font.normal]
+family = "IntoneMonoNerdFontMono"
+style = "Regular"
