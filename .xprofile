@@ -1,0 +1,3 @@
+GTK_IM_MODULE=fctx
+QT_IM_MODULE=fctx
+XMODIFIERS=@im=fcitx
